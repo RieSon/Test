@@ -1,0 +1,43 @@
+
+一、注册说明：
+
+1、运行【idm安装版.exe】。（版本为 6.35 Build 2）
+2、记住 IDM 的安装路径。（默认在 C:\Program Files (x86)\Internet Download Manager ）
+3、将【idm注册机.exe】移动到IDM的安装路径下。（与 IDMan.exe 在同一文件夹下）
+4、运行【idm注册机.exe】，点击按钮“破解IDM。（需要退出运行中的IDM，同时 “IDM 自动更新” 选择 “禁用”。）
+5、在弹出的 First Name 和 Last Name 窗口随便填个名字。（如果出现的话）
+6、完成。
+
+PS：如果 IDM 经常性的弹窗显示一段英文的话，可以将之前安装的 IDM 卸载了，然后重新安装。
+
+
+
+二、美化说明：
+
+1、IDM 默认的主题挺丑的，换个主题就好看很多了。
+2、将【idm美化】文件夹下的所有文件复制到 IDM 安装目录下载的【Toolbar】文件夹下。
+3、重启 IDM，在选项中选择【查看——>工具栏——>Faenza】，并勾选为【小型按钮】。
+
+
+三、IDM 使用技巧
+
+可参考：https://www.runningcheese.com/idm
+百度网盘资源加速下载：https://www.runningcheese.com/baiduyun
+
+
+四、支持正版
+
+支持正版，可到 IDM 官网购买永久使用授权：
+https://secure.internetdownloadmanager.com/buy_idm.html
+
+或者到荔枝数码购买，可先领取优惠卷再购买，优惠卷地址：
+https://partner.lizhi.io/runningcheese/cp
+
+
+
+
+
+
+
+
+
